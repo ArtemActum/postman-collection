@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Create company",
+			"name": "My first request",
 			"event": [
 				{
 					"listen": "test",
